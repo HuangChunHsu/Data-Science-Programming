@@ -11,7 +11,9 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 - In Class
     - Course Intro
     - Create Github Account
-    - 
+    - install R & RStudio
+    - R markdown
+    - DataCamp
 - At Home
     
 # Week2
