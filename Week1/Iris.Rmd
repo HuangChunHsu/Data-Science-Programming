@@ -1,0 +1,26 @@
+---
+title: "Iris"
+author: "許煌浚"
+date: "2019/7/10"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Boxplot of Iris Species versus SepalLength
+```{r , echo=FALSE}
+library(ggplot2)
+
+ggplot(iris, aes(x=Species, y=Sepal.Length)) +
+  geom_boxplot()
+```
+
+# Boxplot of Iris Species versus SepalLength
+
+```{r , echo=FALSE}
+ggplot(data = iris, aes(x = Sepal.Length, y=Sepal.Width)) +
+  geom_point()
+```
+
+
+
