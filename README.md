@@ -11,11 +11,11 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 - In Class
     - Course Intro
     - Create Github Account
-    - install R & RStudio
+    - Install R & RStudio
     - [R markdown](https://huangchunhsu.github.io/Data-Science-Programming/Week1/test.html)
     - DataCamp
 - At Home
-    - basic ggplot
+    - Basic ggplot
 # Week2
 # Week3
 # Week4
