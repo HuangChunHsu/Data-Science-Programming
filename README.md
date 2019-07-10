@@ -15,7 +15,7 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
     - [R markdown](https://huangchunhsu.github.io/Data-Science-Programming/Week1/test.html)
     - DataCamp
 - At Home
-    - Basic ggplot
+    - [Basic ggplot](https://huangchunhsu.github.io/Data-Science-Programming/Week1/Iris.html)
 # Week2
 # Week3
 # Week4
