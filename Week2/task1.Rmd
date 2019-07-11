@@ -39,6 +39,6 @@ ggplot(data = final, aes(x = year, y=suicide_rate)) +
   
 ```{r}
 ggplot(data = final, aes(x = Unemployment_Rate,)) +
-  geom_point(aes(y=suicide_rate ))
+  geom_point(aes(y=suicide_rate ))+theme(axis.text.x= element_text(size=7, family="myFont", color="black", face= "bold", vjust=0.5, hjust=0.5))
 ```
 

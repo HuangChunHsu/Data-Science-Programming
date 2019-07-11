@@ -3,6 +3,8 @@ library(base)
 library(dplyr)
 library(ggplot2)
 library(ggfortify)
+library(tidyr)
+library(magrittr)
 filename1 <- "unemployment rate.csv"
 data1<-read.csv(filename1)
 filename2 <- "suicide.csv"
@@ -15,7 +17,8 @@ final
 ggplot(data = final, aes(x = year, y=suicide_rate)) +
   geom_point()
 ggplot(data = final, aes(x = Unemployment_Rate,)) +
-  geom_point(aes(y=suicide_rate ))
-
-final.lm <- lm(suicide_rate~Unemployment_Rate,
-              data = final)
+  geom_point(aes(y=suicide_rate ))+theme(axis.text.x= element_text(size=7, family="myFont", color="black", face= "bold", vjust=0.5, hjust=0.5))
+final %>%
+  ggplot(aes(x=Unemployment_Rate, y=suicide_rate)) +
+  geom_point(aes(col=Unemployment_Rate), position=position_jitter(width=.05)) +
+  geom_smooth(method='lm',formula=y~x, se=F)
