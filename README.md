@@ -21,7 +21,8 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 [投影片](https://docs.google.com/presentation/d/e/2PACX-1vSx3-g4Z4LgimZKlKfk_L2gH00mDAyQo8DIugatiEXtCUI7hRNuxNtzzuobjLy-VadSpuohEsh4OeqK/pub?start=false&loop=false&delayms=3000&slide=id.g5d1ae76c4f_0_142)
 ### Progress ###
 - In Class
-
+    - [Data Processing](https://huangchunhsu.github.io/Data-Science-Programming/Week2/task1.html)
+    - Crawler
 - At Home
     
 # Week3
