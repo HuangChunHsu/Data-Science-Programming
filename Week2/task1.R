@@ -21,3 +21,4 @@ final %>%
   ggplot(aes(x=Unemployment_Rate, y=suicide_rate)) +
   geom_point(aes(col=Unemployment_Rate), position=position_jitter(width=.05)) +
   geom_smooth(method='lm',formula=y~x, se=F)
+print(cor(final$Unemployment_Rate,final$suicide_rate))
