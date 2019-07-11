@@ -1,0 +1,91 @@
+Year,Unemployment Rate (December),GDP Growth,Inflation (Dec. Year over Year),What Happened
+1929,0.032,NA,0.006,Market crash
+1930,0.087,-0.085,-0.064,Smoot-Hawley
+1931,0.159,-0.064,-0.093,Dust Bowl
+1932,0.236,-0.129,-0.103,Hoover's tax hikes
+1933,0.249,-0.012,0.008,FDR's New Deal
+1934,0.217,0.108,0.015,Depression eased?thanks to New Deal.
+1935,0.201,0.089,0.03,
+1936,0.169,0.129,0.014,
+1937,0.143,0.051,0.029,Spending cuts
+1938,0.19,-0.033,-0.028,FLSA starts?min wage
+1939,0.172,0.08,0,Drought ended
+1940,0.146,0.088,0.007,U.S. draft
+1941,0.099,0.177,0.099,Pearl Harbor
+1942,0.047,0.189,0.09,Defense tripled
+1943,0.019,0.17,0.03,Germany surrendered at Stalingrad
+1944,0.012,0.08,0.023,Bretton Woods
+1945,0.019,-0.01,0.022,War ends. Min wage $.40
+1946,0.039,-0.116,0.181,Employment Act
+1947,0.036,-0.011,0.088,Marshall Plan?negotiated.
+1948,0.04,0.041,0.03,Truman reelected
+1949,0.066,-0.006,-0.021,Fair Deal.?NATO
+1950,0.043,0.087,0.059,Korean War. Min wage $.75
+1951,0.031,0.08,0.06,Expansion
+1952,0.027,0.041,0.008,Expansion
+1953,0.045,0.047,0.007,Korean War ended
+1954,0.05,-0.006,-0.007,Dow returned to 1929 level
+1955,0.042,0.071,0.004,Unemployment fell
+1956,0.042,0.021,0.03,Min wage $1.00
+1957,0.052,0.021,0.029,Recession
+1958,0.062,-0.007,0.018,
+1959,0.053,0.069,0.017,Expansion.?
+1960,0.066,0.026,0.014,Recession.?
+1961,0.06,0.026,0.007,JFK. Min wage $1.15
+1962,0.055,0.061,0.013,Cuban Missile Crisis
+1963,0.055,0.044,0.016,LBJ. Min wage $1.25
+1964,0.05,0.058,0.01,Tax cut
+1965,0.04,0.065,0.019,US enters Vietnam War
+1966,0.038,0.066,0.035,Expansion
+1967,0.038,0.027,0.03,Min wage $1.40
+1968,0.034,0.049,0.047,Min wage $1.60
+1969,0.035,0.031,0.062,Nixon took office
+1970,0.061,0.002,0.056,Recession
+1971,0.06,0.033,0.033,Emergency Employment Act. Wage-price controls
+1972,0.052,0.053,0.034,Ongoing?Stagflation.?Watergate break-in.
+1973,0.049,0.056,0.087,"CETA.?Gold standard, Vietnam War ended"
+1974,0.072,-0.005,0.123,Nixon resigns. Min wage $2.00
+1975,0.082,-0.002,0.069,Recession ended.
+1976,0.078,0.054,0.049,Expansion.?
+1977,0.064,0.046,0.067,Carter took office.
+1978,0.06,0.055,0.09,Fed raised rate to 20% to stop inflation
+1979,0.06,0.032,0.133,
+1980,0.072,-0.003,0.125,Recession
+1981,0.085,0.025,0.089,Reagan?tax cuts. Min wage $3.35
+1982,0.108,-0.018,0.038,Job Training Partnership Act.?Garn-St.Germain Act.
+1983,0.083,0.046,0.038,Reagan increased military spending
+1984,0.073,0.072,0.039,
+1985,0.07,0.042,0.038,Expansion
+1986,0.066,0.035,0.011,Tax cuts
+1987,0.057,0.035,0.044,Black Monday
+1988,0.053,0.042,0.044,Fed raised rate
+1989,0.054,0.037,0.046,Reforms made to address?S&L Crisis
+1990,0.063,0.019,0.061,Recession
+1991,0.073,-0.001,0.031,Desert Storm. Min wage $4.25
+1992,0.074,0.035,0.029,NAFTA?drafted
+1993,0.065,0.028,0.027,Omnibus Budget Reconciliation Act
+1994,0.055,0.04,0.027,School to Work Act?
+1995,0.056,0.027,0.025,Expansion
+1996,0.054,0.038,0.033,Welfare?reform
+1997,0.047,0.044,0.017,Min wage $5.85
+1998,0.044,0.045,0.016,LTCM crisis
+1999,0.04,0.048,0.027,Euro. Serbian airstrike
+2000,0.039,0.041,0.034,NASDAQ?hit record high.
+2001,0.057,0.01,0.016,Bush tax cuts.?9/11 attacks
+2002,0.06,0.017,0.024,War on Terror
+2003,0.057,0.029,0.019,JGTRRA
+2004,0.054,0.038,0.033,Expansion.
+2005,0.049,0.035,0.034,Bankruptcy Abuse Prevention?Act.?Katrina
+2006,0.044,0.029,0.025,Expansion.
+2007,0.05,0.019,0.041,EU became #1?economy.?
+2008,0.073,-0.001,0.001,Min.?wage = $6.55/ hour.?Financial crisis
+2009,0.099,-0.025,0.027,ARRA. Min wage $7.25.?Jobless benefits?extended
+2010,0.093,0.026,0.015,Obama tax cuts.?
+2011,0.085,0.016,0.03,26 months of job losses by July.?Debt ceiling?crisis.?Iraq War ended.
+2012,0.079,0.022,0.017,QE.?10-year rate at 200-year low.?Fiscal cliff.
+2013,0.067,0.018,0.015,Stocks up?30%. Long term=50%?of unemployed.?
+2014,0.056,0.025,0.008,Unemployment at 2007 levels.
+2015,0.05,0.029,0.007,Natural rate
+2016,0.047,0.016,0.021,Presidential race
+2017,0.041,0.022,0.021,Dollar weakened
+2018,0.039,0.029,0.019,Trump tax cuts.
