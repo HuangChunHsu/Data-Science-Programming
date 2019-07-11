@@ -17,8 +17,6 @@ fct_drop
 final
 ggplot(data = final, aes(x = year, y=suicide_rate)) +
   geom_point()
-ggplot(data = final, aes(x = Unemployment_Rate,)) +
-  geom_point(aes(y=suicide_rate ))+theme(axis.text.x= element_text(size=10, family="myFont", color="black", face= "bold", vjust=0.5, hjust=0.5))
 final %>%
   ggplot(aes(x=Unemployment_Rate, y=suicide_rate)) +
   geom_point(aes(col=Unemployment_Rate), position=position_jitter(width=.05)) +
