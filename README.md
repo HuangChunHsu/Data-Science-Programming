@@ -24,6 +24,6 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 - At Home
     
 # Week3
-[投影片]
+[投影片](https://docs.google.com/presentation/d/e/2PACX-1vTvdUOo9w0RFYs8NBIr7svtShHutVeipc9zAMFJN8Bq2LzVCwBpvEO5ChIfaoRjspZDAJSMbJOjWBL8/pub?start=false&loop=false&delayms=3000&slide=id.g5d1dc87b2b_0_716)
 # Week4
 [投影片]
