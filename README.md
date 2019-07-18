@@ -25,7 +25,7 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 ### Progress ###
 - In Class
     - [Data Visualization](https://huangchunhsu.github.io/Data-Science-Programming/Week2/DataVisualization3.html)
-    - [Text Mining]()
+    - [Text Mining]
 - At Home
     
 # Week3
