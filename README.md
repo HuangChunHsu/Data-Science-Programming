@@ -26,7 +26,7 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 - In Class
     - [Data Visualization](https://huangchunhsu.github.io/Data-Science-Programming/Week2/DataVisualization3.html)
     - [Word Cloud](https://huangchunhsu.github.io/Data-Science-Programming/Week2/wordcloud.html)
-    - [Text Mining]()
+    - [Text Mining](https://huangchunhsu.github.io/Data-Science-Programming/Week2/txtmining.html)
 - At Home
     
 # Week3
