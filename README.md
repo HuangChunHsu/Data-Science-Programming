@@ -15,6 +15,7 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
     - Install R & RStudio
     - [R markdown](https://huangchunhsu.github.io/Data-Science-Programming/Week1/test.html)
     - DataCamp
+    - [Data Processing & Crawler](https://huangchunhsu.github.io/Data-Science-Programming/Week2/DataProcessingCrawler.html)
 - At Home
     - [Basic ggplot](https://huangchunhsu.github.io/Data-Science-Programming/Week1/Iris.html)
 # Week2
@@ -23,8 +24,8 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 [投影片](https://docs.google.com/presentation/d/e/2PACX-1vRGRc4TLe_rffXaSlWPU7rWZx4fQ7HxMcwHXbTAxfWh6xwlBtM9rxA1rfHI5eM-2GaxkMGC2NMSnUj5/pub?start=false&loop=false&delayms=3000&slide=id.g5d365b685b_0_78)
 ### Progress ###
 - In Class
-    - [Data Processing & Crawler](https://huangchunhsu.github.io/Data-Science-Programming/Week2/DataProcessingCrawler.html)
     - [Data Visualization](https://huangchunhsu.github.io/Data-Science-Programming/Week2/DataVisualization3.html)
+    - [Text Mining]()
 - At Home
     
 # Week3
