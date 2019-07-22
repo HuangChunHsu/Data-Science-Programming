@@ -30,14 +30,9 @@ NTU CS+X 全國夏季學院 資料科學程式設計<br>
 - At Home
     
 # Week3
-[投影片]()
+[投影片](https://docs.google.com/presentation/d/e/2PACX-1vSzngDJuRE8e5nuP_f8muXnSXuKQPVqmVCT2y41lmqnBw6btgm1kC8OL9WH7FjbiFm4kIKkdWxu8as7/pub?start=false&loop=false&delayms=3000&slide=id.g5dcc728c9e_0_571)
 ### Progress ###
 - In Class
-
+    Project
 - At Home
-# Week4
-[投影片]()
-### Progress ###
-- In Class
-
-- At Home
+    Project
